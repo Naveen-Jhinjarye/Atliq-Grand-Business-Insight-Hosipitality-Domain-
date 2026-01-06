@@ -2,12 +2,15 @@
 
 Power BI dashboard for revenue and occupancy analysis in the hospitality industry
 
+
 Live Dashboard:-  https://app.powerbi.com/view?r=eyJrIjoiMzU0NGU0OGItNDBlYS00ZmJjLTgzNmYtZmU5MGYwOTlhYzE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 Dashboard Presentation Video Link :-  https://youtu.be/dA54IXIC0b4?si=YpszpgbIAbOb-c03
+
 📊 Project Overview
 A data analytics project analyzing revenue and occupancy patterns for AtliQ Grands, a luxury five-star hotel chain operating across India.
 
-🎯 ##SITUATION
+## 🎯 SITUATION
 The Business Problem:
 AtliQ Grands, with 20 years in the hospitality industry, was facing significant challenges:
 
@@ -18,7 +21,7 @@ No in-house analytics team to guide strategic decisions
 
 The managing director decided to adopt Business Intelligence to turn the situation around.
 
-🎬 ##TASK
+## 🎬 TASK
 My Role:
 Hired as a third-party Data Analyst to:
 
@@ -110,7 +113,8 @@ Created framework for ongoing performance monitoring
 
 
 🛠️ Tools & Technologies
-ToolPurposePower BIDashboard development and visualizationDAXCalculated measures and KPIsPower QueryData transformation and cleaningExcelInitial data exploration
+Tool Purpose Power BI Dashboard development and visualization DAX Calculated measures and KPIsPower QueryData transformation and cleaning ExcelInitial data exploration
+
 
 📈 Key Metrics Tracked
 
