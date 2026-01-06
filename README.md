@@ -30,9 +30,10 @@ Identify key revenue and occupancy trends
 Build interactive dashboards for executive decision-making
 Provide actionable recommendations for business recovery
 
-Analysis Scope:
+## Analysis Scope:
 
 Revenue Analysis - Understanding revenue drivers and optimization opportunities
+
 Occupancy Analysis - Analyzing booking patterns and capacity utilization
 
 
@@ -78,7 +79,7 @@ Discovered pricing optimization opportunities
 Analyzed booking platform effectiveness
 
 
-✅ RESULT
+## ✅ RESULT
 Key Insights Delivered:
 
 Revenue Patterns
@@ -119,17 +120,26 @@ Tool Purpose Power BI Dashboard development and visualization DAX Calculated mea
 📈 Key Metrics Tracked
 
 Revenue Metrics: Total Revenue, ADR, RevPAR, Revenue WoW%
+
 Occupancy Metrics: Occupancy %, Weekday/Weekend Occupancy
+
 Performance Metrics: Realization %, Cancellation Rate, Average Rating
+
 Booking Analysis: Platform performance, Direct booking %
 
 
 🎓 Skills Demonstrated
+
 ✅ Data Analysis & Visualization
+
 ✅ Business Problem Solving
+
 ✅ DAX Programming
+
 ✅ Data Modeling
+
 ✅ Stakeholder Communication
+
 ✅ Domain Knowledge (Hospitality & Revenue Management)
 
 📸 Dashboard Preview
@@ -142,6 +152,8 @@ Property Performance - Individual property deep-dive
 🔗 Project Links
 
 Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMzU0NGU0OGItNDBlYS00ZmJjLTgzNmYtZmU5MGYwOTlhYzE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
 LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7412494004778594304/
 
 
